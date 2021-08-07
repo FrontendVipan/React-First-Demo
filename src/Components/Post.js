@@ -27,6 +27,7 @@ class Post extends React.Component {
       .then((data) => {
           this.setState({
               topics:data
+              
           })
     });
     } 
