@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Grand Piano",
+      "type": "manual",
+      "description": "typicode",
+      "img":"https://unsplash.com/photos/xII7efH1G6o"
+    },
+    {
+      "id": 2,
+      "name": "Two",
+      "type": "manual",
+      "description": "typicode",
+      "img":"https://unsplash.com/photos/yC-Yzbqy7PY"
+    },
+    {
+      "id": 3,
+      "name": "Three",
+      "type": "manual",
+      "description": "typicode",
+      "img":"https://unsplash.com/photos/yC-Yzbqy7PY"
+    },
+    {
+      "id": 4,
+      "name": "Four",
+      "type": "manual",
+      "description": "typicode",
+      "img":"https://unsplash.com/photos/yC-Yzbqy7PY"
+    }
+  ]
+}

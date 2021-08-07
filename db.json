@@ -1,0 +1,35 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "React JS",
+      "dec": "React JS- Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "img": "https://picsum.photos/id/1/200/100"
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "dec": "Python - Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "img": "https://picsum.photos/id/1011/200/100"
+    },
+    {
+      "id": 3,
+      "name": "ASP.net",
+      "dec": "ASP.net - Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "img": "https://picsum.photos/id/1012/200/100"
+    },
+    {
+      "id": 4,
+      "name": "C++",
+      "dec": "C++ - Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "img": "https://picsum.photos/id/1013/200/100"
+    },
+    {
+      "id": 5,
+      "name": "Node",
+      "dec": "Node - Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "img": "https://picsum.photos/id/1004/200/100"
+    }
+  ]
+ 
+}
